@@ -3,6 +3,7 @@
 ## List of all projects
 - [Visual Novel](https://wmc-ahif-2021.github.io/VisualNovel/) 
 - [World Tour](https://wmc-ahif-2021.github.io/WorldTour/)
+- [RetroBit](https://wmc-ahif-2021.github.io/RetroBit/)
 - [GameLine](https://wmc-ahif-2021.github.io/GameLine/)
 - [Crystals](https://wmc-ahif-2021.github.io/Crystals/)
 - [Go Healthy](https://wmc-ahif-2021.github.io/Go-Healthy/)
